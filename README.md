@@ -1,2 +1,2 @@
 # interactiondesign
-IT5505
+IT5505 Interaction Design Fundamentals
